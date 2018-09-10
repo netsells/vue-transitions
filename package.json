@@ -1,0 +1,12 @@
+{
+  "name": "vue-transitions",
+  "version": "0.1.0",
+  "peerDependencies": {
+    "vue": ">=2"
+  },
+  "keywords": [
+    "vue",
+    "transitions"
+  ]
+
+}
